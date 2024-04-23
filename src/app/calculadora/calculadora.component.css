@@ -1,0 +1,24 @@
+.completo{
+    width: 100%;
+}
+  
+  .btn-info {
+    background-color: #b87333; /* brown */
+    color: #fff; /* white text */
+    font-family: 'Garamond', serif; /* medieval-style font */
+    border-color: #754c24; /* dark brown */
+  }
+  
+  .medieval-button:hover {
+    background-color: #8b4513; /* dark brown on hover */
+  }
+  
+  .btn-info:active {   
+      background: gray; 
+     color: white; 
+    } 
+
+    .btn-info:hover { 
+        background: #502e0f; 
+        color: white; 
+      } 
